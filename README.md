@@ -109,8 +109,8 @@ reproducible para el seguimiento del mercado.
 Requisitos: Python 3.10+.
 
 ```bash
-git clone <url-del-repositorio>
-cd hipotecas-python-github
+git clone https://github.com/JorgeBaGa/hipotecas-estacionalidad-espana.git
+cd hipotecas-estacionalidad-espana
 
 python -m venv .venv
 source .venv/bin/activate  # en Windows: .venv\Scripts\activate
