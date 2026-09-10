@@ -21,6 +21,8 @@ las conclusiones.
   hipoteca (estacionalidad).
 - Si ese patrón, de existir, es estable en el tiempo.
 - Diferencias entre hipotecas a tipo fijo y a tipo variable.
+- La evolución del diferencial entre el Euríbor y los tipos medios de las
+  nuevas hipotecas.
 - Previsión del tipo hipotecario medio a 1, 3 y 6 meses, con validación
   temporal (backtesting) de los modelos utilizados.
 
