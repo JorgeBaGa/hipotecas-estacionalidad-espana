@@ -49,6 +49,26 @@ def monthly_deviation_from_annual_mean(viviendas: pd.DataFrame) -> pd.DataFrame:
     return resumen.sort_values("mes_num").reset_index(drop=True)
 
 
+def yearly_deviation_detail(viviendas: pd.DataFrame) -> pd.DataFrame:
+    """Desviación de cada mes frente a la media de su propio año, año a año
+    (sin agregar entre años). Mismo criterio que
+    `monthly_deviation_from_annual_mean` (solo años completos), pero
+    devolviendo el detalle por año en vez de la agregación entre años.
+    """
+    anios_completos = viviendas.groupby("anio").size()
+    anios_completos = anios_completos[anios_completos == 12].index
+
+    datos = viviendas[viviendas["anio"].isin(anios_completos)].copy()
+    datos["diferencia_anual"] = datos.groupby("anio")["tipo_hipotecario"].transform(
+        lambda x: x - x.mean()
+    )
+    return (
+        datos[["anio", "mes_num", "mes", "tipo_hipotecario", "diferencia_anual"]]
+        .sort_values(["anio", "mes_num"])
+        .reset_index(drop=True)
+    )
+
+
 def _build_month_effect_design(serie: pd.DataFrame, euribor: pd.DataFrame) -> pd.DataFrame:
     """Construye la matriz de diseño: índice temporal, lags 0-6 de Euribor y
     variables de mes con codificación de suma a cero: 11 columnas para
