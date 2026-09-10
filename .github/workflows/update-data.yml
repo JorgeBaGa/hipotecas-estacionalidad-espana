@@ -1,0 +1,90 @@
+name: Update mortgage data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every Sunday. A guard step below only lets the last Sunday of the month run.
+    - cron: "30 7 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check monthly schedule
+        id: calendar
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "Manual execution. Continuing update."
+            exit 0
+          fi
+          next_week_month="$(date -u -d '+7 days' +'%m')"
+          current_month="$(date -u +'%m')"
+          if [ "$next_week_month" = "$current_month" ]; then
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "Not the last Sunday of the month. Skipping update."
+          else
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            echo "Last Sunday of the month. Continuing update."
+          fi
+
+      - name: Checkout
+        if: steps.calendar.outputs.should_run == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.calendar.outputs.should_run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        if: steps.calendar.outputs.should_run == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m ipykernel install --user --name python3 --display-name "Python 3"
+
+      - name: Download official data
+        if: steps.calendar.outputs.should_run == 'true'
+        run: python src/download_data.py
+
+      - name: Validate processed data
+        if: steps.calendar.outputs.should_run == 'true'
+        run: python src/validate_data.py
+
+      - name: Check for new or revised data
+        id: data
+        if: steps.calendar.outputs.should_run == 'true'
+        shell: bash
+        run: |
+          if git diff --quiet -- data/raw data/processed; then
+            echo "data_changed=false" >> "$GITHUB_OUTPUT"
+            echo "INE and Banco de Espana have nothing new since the last run. Skipping recalculation."
+          else
+            echo "data_changed=true" >> "$GITHUB_OUTPUT"
+            echo "New or revised source data detected. Recalculating forecasts and notebook."
+          fi
+
+      - name: Update forecasts and tracking history
+        if: steps.data.outputs.data_changed == 'true'
+        run: python src/update_forecasts.py
+
+      - name: Re-execute the analysis notebook
+        if: steps.data.outputs.data_changed == 'true'
+        env:
+          PYTHONUTF8: "1"
+          PYTHONIOENCODING: "utf-8"
+        run: jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.kernel_name=python3 notebooks/hipotecas_analysis.ipynb
+
+      - name: Commit updated data, forecasts, tables, figures and notebook
+        if: steps.data.outputs.data_changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update mortgage data, forecasts and notebook"
+          file_pattern: "data/raw/ data/processed/ outputs/ notebooks/hipotecas_analysis.ipynb"

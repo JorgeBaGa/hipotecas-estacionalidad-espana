@@ -1,0 +1,1261 @@
+fecha,periodo,naturaleza_finca,tipo_interes,tipo_hipotecario
+2009-01-01,2009M01,Total fincas,Fijo,6.64
+2009-01-01,2009M01,Total fincas,Total,5.36
+2009-01-01,2009M01,Total fincas,Variable,5.31
+2009-01-01,2009M01,Viviendas,Fijo,6.18
+2009-01-01,2009M01,Viviendas,Total,5.4
+2009-01-01,2009M01,Viviendas,Variable,5.38
+2009-02-01,2009M02,Total fincas,Fijo,6.79
+2009-02-01,2009M02,Total fincas,Total,5.17
+2009-02-01,2009M02,Total fincas,Variable,5.1
+2009-02-01,2009M02,Viviendas,Fijo,6.47
+2009-02-01,2009M02,Viviendas,Total,5.2
+2009-02-01,2009M02,Viviendas,Variable,5.17
+2009-03-01,2009M03,Total fincas,Fijo,6.45
+2009-03-01,2009M03,Total fincas,Total,4.85
+2009-03-01,2009M03,Total fincas,Variable,4.78
+2009-03-01,2009M03,Viviendas,Fijo,6.74
+2009-03-01,2009M03,Viviendas,Total,4.89
+2009-03-01,2009M03,Viviendas,Variable,4.84
+2009-04-01,2009M04,Total fincas,Fijo,6.01
+2009-04-01,2009M04,Total fincas,Total,4.38
+2009-04-01,2009M04,Total fincas,Variable,4.3
+2009-04-01,2009M04,Viviendas,Fijo,6.1
+2009-04-01,2009M04,Viviendas,Total,4.5
+2009-04-01,2009M04,Viviendas,Variable,4.47
+2009-05-01,2009M05,Total fincas,Fijo,5.94
+2009-05-01,2009M05,Total fincas,Total,4.29
+2009-05-01,2009M05,Total fincas,Variable,4.22
+2009-05-01,2009M05,Viviendas,Fijo,6.01
+2009-05-01,2009M05,Viviendas,Total,4.38
+2009-05-01,2009M05,Viviendas,Variable,4.33
+2009-06-01,2009M06,Total fincas,Fijo,5.55
+2009-06-01,2009M06,Total fincas,Total,4.26
+2009-06-01,2009M06,Total fincas,Variable,4.19
+2009-06-01,2009M06,Viviendas,Fijo,5.37
+2009-06-01,2009M06,Viviendas,Total,4.22
+2009-06-01,2009M06,Viviendas,Variable,4.19
+2009-07-01,2009M07,Total fincas,Fijo,5.67
+2009-07-01,2009M07,Total fincas,Total,4.12
+2009-07-01,2009M07,Total fincas,Variable,4.04
+2009-07-01,2009M07,Viviendas,Fijo,5.11
+2009-07-01,2009M07,Viviendas,Total,4.05
+2009-07-01,2009M07,Viviendas,Variable,4.02
+2009-08-01,2009M08,Total fincas,Fijo,5.45
+2009-08-01,2009M08,Total fincas,Total,3.97
+2009-08-01,2009M08,Total fincas,Variable,3.89
+2009-08-01,2009M08,Viviendas,Fijo,5.72
+2009-08-01,2009M08,Viviendas,Total,3.96
+2009-08-01,2009M08,Viviendas,Variable,3.91
+2009-09-01,2009M09,Total fincas,Fijo,5.22
+2009-09-01,2009M09,Total fincas,Total,3.97
+2009-09-01,2009M09,Total fincas,Variable,3.9
+2009-09-01,2009M09,Viviendas,Fijo,5.24
+2009-09-01,2009M09,Viviendas,Total,3.89
+2009-09-01,2009M09,Viviendas,Variable,3.85
+2009-10-01,2009M10,Total fincas,Fijo,5.16
+2009-10-01,2009M10,Total fincas,Total,3.84
+2009-10-01,2009M10,Total fincas,Variable,3.77
+2009-10-01,2009M10,Viviendas,Fijo,5.29
+2009-10-01,2009M10,Viviendas,Total,3.92
+2009-10-01,2009M10,Viviendas,Variable,3.89
+2009-11-01,2009M11,Total fincas,Fijo,5.12
+2009-11-01,2009M11,Total fincas,Total,3.77
+2009-11-01,2009M11,Total fincas,Variable,3.72
+2009-11-01,2009M11,Viviendas,Fijo,5.25
+2009-11-01,2009M11,Viviendas,Total,3.84
+2009-11-01,2009M11,Viviendas,Variable,3.81
+2009-12-01,2009M12,Total fincas,Fijo,5.39
+2009-12-01,2009M12,Total fincas,Total,3.83
+2009-12-01,2009M12,Total fincas,Variable,3.78
+2009-12-01,2009M12,Viviendas,Fijo,5.03
+2009-12-01,2009M12,Viviendas,Total,3.85
+2009-12-01,2009M12,Viviendas,Variable,3.83
+2010-01-01,2010M01,Total fincas,Fijo,5.66
+2010-01-01,2010M01,Total fincas,Total,3.77
+2010-01-01,2010M01,Total fincas,Variable,3.66
+2010-01-01,2010M01,Viviendas,Fijo,4.69
+2010-01-01,2010M01,Viviendas,Total,3.76
+2010-01-01,2010M01,Viviendas,Variable,3.74
+2010-02-01,2010M02,Total fincas,Fijo,5.03
+2010-02-01,2010M02,Total fincas,Total,3.71
+2010-02-01,2010M02,Total fincas,Variable,3.65
+2010-02-01,2010M02,Viviendas,Fijo,5.49
+2010-02-01,2010M02,Viviendas,Total,3.7
+2010-02-01,2010M02,Viviendas,Variable,3.66
+2010-03-01,2010M03,Total fincas,Fijo,5.38
+2010-03-01,2010M03,Total fincas,Total,3.66
+2010-03-01,2010M03,Total fincas,Variable,3.58
+2010-03-01,2010M03,Viviendas,Fijo,4.97
+2010-03-01,2010M03,Viviendas,Total,3.64
+2010-03-01,2010M03,Viviendas,Variable,3.61
+2010-04-01,2010M04,Total fincas,Fijo,5.06
+2010-04-01,2010M04,Total fincas,Total,3.63
+2010-04-01,2010M04,Total fincas,Variable,3.57
+2010-04-01,2010M04,Viviendas,Fijo,5.1
+2010-04-01,2010M04,Viviendas,Total,3.64
+2010-04-01,2010M04,Viviendas,Variable,3.61
+2010-05-01,2010M05,Total fincas,Fijo,4.87
+2010-05-01,2010M05,Total fincas,Total,3.62
+2010-05-01,2010M05,Total fincas,Variable,3.54
+2010-05-01,2010M05,Viviendas,Fijo,5.11
+2010-05-01,2010M05,Viviendas,Total,3.64
+2010-05-01,2010M05,Viviendas,Variable,3.62
+2010-06-01,2010M06,Total fincas,Fijo,4.93
+2010-06-01,2010M06,Total fincas,Total,3.61
+2010-06-01,2010M06,Total fincas,Variable,3.55
+2010-06-01,2010M06,Viviendas,Fijo,5.24
+2010-06-01,2010M06,Viviendas,Total,3.61
+2010-06-01,2010M06,Viviendas,Variable,3.58
+2010-07-01,2010M07,Total fincas,Fijo,4.86
+2010-07-01,2010M07,Total fincas,Total,3.48
+2010-07-01,2010M07,Total fincas,Variable,3.42
+2010-07-01,2010M07,Viviendas,Fijo,5.05
+2010-07-01,2010M07,Viviendas,Total,3.52
+2010-07-01,2010M07,Viviendas,Variable,3.49
+2010-08-01,2010M08,Total fincas,Fijo,5.31
+2010-08-01,2010M08,Total fincas,Total,3.57
+2010-08-01,2010M08,Total fincas,Variable,3.5
+2010-08-01,2010M08,Viviendas,Fijo,5.13
+2010-08-01,2010M08,Viviendas,Total,3.46
+2010-08-01,2010M08,Viviendas,Variable,3.43
+2010-09-01,2010M09,Total fincas,Fijo,5.72
+2010-09-01,2010M09,Total fincas,Total,3.51
+2010-09-01,2010M09,Total fincas,Variable,3.44
+2010-09-01,2010M09,Viviendas,Fijo,5.36
+2010-09-01,2010M09,Viviendas,Total,3.46
+2010-09-01,2010M09,Viviendas,Variable,3.43
+2010-10-01,2010M10,Total fincas,Fijo,5.14
+2010-10-01,2010M10,Total fincas,Total,3.54
+2010-10-01,2010M10,Total fincas,Variable,3.47
+2010-10-01,2010M10,Viviendas,Fijo,5.08
+2010-10-01,2010M10,Viviendas,Total,3.48
+2010-10-01,2010M10,Viviendas,Variable,3.44
+2010-11-01,2010M11,Total fincas,Fijo,5.1
+2010-11-01,2010M11,Total fincas,Total,3.69
+2010-11-01,2010M11,Total fincas,Variable,3.62
+2010-11-01,2010M11,Viviendas,Fijo,4.94
+2010-11-01,2010M11,Viviendas,Total,3.56
+2010-11-01,2010M11,Viviendas,Variable,3.53
+2010-12-01,2010M12,Total fincas,Fijo,4.73
+2010-12-01,2010M12,Total fincas,Total,3.69
+2010-12-01,2010M12,Total fincas,Variable,3.6
+2010-12-01,2010M12,Viviendas,Fijo,5.13
+2010-12-01,2010M12,Viviendas,Total,3.58
+2010-12-01,2010M12,Viviendas,Variable,3.53
+2011-01-01,2011M01,Total fincas,Fijo,4.94
+2011-01-01,2011M01,Total fincas,Total,3.58
+2011-01-01,2011M01,Total fincas,Variable,3.51
+2011-01-01,2011M01,Viviendas,Fijo,4.87
+2011-01-01,2011M01,Viviendas,Total,3.49
+2011-01-01,2011M01,Viviendas,Variable,3.47
+2011-02-01,2011M02,Total fincas,Fijo,5.05
+2011-02-01,2011M02,Total fincas,Total,3.54
+2011-02-01,2011M02,Total fincas,Variable,3.48
+2011-02-01,2011M02,Viviendas,Fijo,4.76
+2011-02-01,2011M02,Viviendas,Total,3.4
+2011-02-01,2011M02,Viviendas,Variable,3.38
+2011-03-01,2011M03,Total fincas,Fijo,5.04
+2011-03-01,2011M03,Total fincas,Total,3.73
+2011-03-01,2011M03,Total fincas,Variable,3.65
+2011-03-01,2011M03,Viviendas,Fijo,5.0
+2011-03-01,2011M03,Viviendas,Total,3.6
+2011-03-01,2011M03,Viviendas,Variable,3.57
+2011-04-01,2011M04,Total fincas,Fijo,5.25
+2011-04-01,2011M04,Total fincas,Total,3.77
+2011-04-01,2011M04,Total fincas,Variable,3.69
+2011-04-01,2011M04,Viviendas,Fijo,5.52
+2011-04-01,2011M04,Viviendas,Total,3.71
+2011-04-01,2011M04,Viviendas,Variable,3.67
+2011-05-01,2011M05,Total fincas,Fijo,5.15
+2011-05-01,2011M05,Total fincas,Total,3.81
+2011-05-01,2011M05,Total fincas,Variable,3.72
+2011-05-01,2011M05,Viviendas,Fijo,4.82
+2011-05-01,2011M05,Viviendas,Total,3.7
+2011-05-01,2011M05,Viviendas,Variable,3.66
+2011-06-01,2011M06,Total fincas,Fijo,4.94
+2011-06-01,2011M06,Total fincas,Total,4.02
+2011-06-01,2011M06,Total fincas,Variable,3.97
+2011-06-01,2011M06,Viviendas,Fijo,5.22
+2011-06-01,2011M06,Viviendas,Total,3.8
+2011-06-01,2011M06,Viviendas,Variable,3.75
+2011-07-01,2011M07,Total fincas,Fijo,4.99
+2011-07-01,2011M07,Total fincas,Total,4.0
+2011-07-01,2011M07,Total fincas,Variable,3.94
+2011-07-01,2011M07,Viviendas,Fijo,5.09
+2011-07-01,2011M07,Viviendas,Total,3.93
+2011-07-01,2011M07,Viviendas,Variable,3.9
+2011-08-01,2011M08,Total fincas,Fijo,5.31
+2011-08-01,2011M08,Total fincas,Total,4.06
+2011-08-01,2011M08,Total fincas,Variable,4.0
+2011-08-01,2011M08,Viviendas,Fijo,5.2
+2011-08-01,2011M08,Viviendas,Total,3.96
+2011-08-01,2011M08,Viviendas,Variable,3.93
+2011-09-01,2011M09,Total fincas,Fijo,5.12
+2011-09-01,2011M09,Total fincas,Total,4.06
+2011-09-01,2011M09,Total fincas,Variable,3.99
+2011-09-01,2011M09,Viviendas,Fijo,4.68
+2011-09-01,2011M09,Viviendas,Total,3.98
+2011-09-01,2011M09,Viviendas,Variable,3.96
+2011-10-01,2011M10,Total fincas,Fijo,5.31
+2011-10-01,2011M10,Total fincas,Total,4.07
+2011-10-01,2011M10,Total fincas,Variable,3.98
+2011-10-01,2011M10,Viviendas,Fijo,5.26
+2011-10-01,2011M10,Viviendas,Total,3.98
+2011-10-01,2011M10,Viviendas,Variable,3.93
+2011-11-01,2011M11,Total fincas,Fijo,4.89
+2011-11-01,2011M11,Total fincas,Total,4.27
+2011-11-01,2011M11,Total fincas,Variable,4.23
+2011-11-01,2011M11,Viviendas,Fijo,4.69
+2011-11-01,2011M11,Viviendas,Total,4.19
+2011-11-01,2011M11,Viviendas,Variable,4.18
+2011-12-01,2011M12,Total fincas,Fijo,5.04
+2011-12-01,2011M12,Total fincas,Total,4.1
+2011-12-01,2011M12,Total fincas,Variable,4.06
+2011-12-01,2011M12,Viviendas,Fijo,5.15
+2011-12-01,2011M12,Viviendas,Total,4.02
+2011-12-01,2011M12,Viviendas,Variable,4.0
+2012-01-01,2012M01,Total fincas,Fijo,4.12
+2012-01-01,2012M01,Total fincas,Total,4.13
+2012-01-01,2012M01,Total fincas,Variable,4.13
+2012-01-01,2012M01,Viviendas,Fijo,4.9
+2012-01-01,2012M01,Viviendas,Total,4.1
+2012-01-01,2012M01,Viviendas,Variable,4.07
+2012-02-01,2012M02,Total fincas,Fijo,5.09
+2012-02-01,2012M02,Total fincas,Total,4.18
+2012-02-01,2012M02,Total fincas,Variable,4.12
+2012-02-01,2012M02,Viviendas,Fijo,5.29
+2012-02-01,2012M02,Viviendas,Total,4.04
+2012-02-01,2012M02,Viviendas,Variable,3.99
+2012-03-01,2012M03,Total fincas,Fijo,5.42
+2012-03-01,2012M03,Total fincas,Total,4.18
+2012-03-01,2012M03,Total fincas,Variable,4.1
+2012-03-01,2012M03,Viviendas,Fijo,5.33
+2012-03-01,2012M03,Viviendas,Total,4.13
+2012-03-01,2012M03,Viviendas,Variable,4.09
+2012-04-01,2012M04,Total fincas,Fijo,4.9
+2012-04-01,2012M04,Total fincas,Total,4.19
+2012-04-01,2012M04,Total fincas,Variable,4.11
+2012-04-01,2012M04,Viviendas,Fijo,5.5
+2012-04-01,2012M04,Viviendas,Total,4.16
+2012-04-01,2012M04,Viviendas,Variable,4.11
+2012-05-01,2012M05,Total fincas,Fijo,4.9
+2012-05-01,2012M05,Total fincas,Total,4.11
+2012-05-01,2012M05,Total fincas,Variable,4.06
+2012-05-01,2012M05,Viviendas,Fijo,5.33
+2012-05-01,2012M05,Viviendas,Total,4.07
+2012-05-01,2012M05,Viviendas,Variable,4.03
+2012-06-01,2012M06,Total fincas,Fijo,4.98
+2012-06-01,2012M06,Total fincas,Total,4.13
+2012-06-01,2012M06,Total fincas,Variable,4.06
+2012-06-01,2012M06,Viviendas,Fijo,5.4
+2012-06-01,2012M06,Viviendas,Total,4.17
+2012-06-01,2012M06,Viviendas,Variable,4.12
+2012-07-01,2012M07,Total fincas,Fijo,5.02
+2012-07-01,2012M07,Total fincas,Total,4.11
+2012-07-01,2012M07,Total fincas,Variable,4.04
+2012-07-01,2012M07,Viviendas,Fijo,5.3
+2012-07-01,2012M07,Viviendas,Total,4.08
+2012-07-01,2012M07,Viviendas,Variable,4.03
+2012-08-01,2012M08,Total fincas,Fijo,5.09
+2012-08-01,2012M08,Total fincas,Total,4.02
+2012-08-01,2012M08,Total fincas,Variable,3.96
+2012-08-01,2012M08,Viviendas,Fijo,5.04
+2012-08-01,2012M08,Viviendas,Total,4.08
+2012-08-01,2012M08,Viviendas,Variable,4.05
+2012-09-01,2012M09,Total fincas,Fijo,4.78
+2012-09-01,2012M09,Total fincas,Total,4.04
+2012-09-01,2012M09,Total fincas,Variable,3.99
+2012-09-01,2012M09,Viviendas,Fijo,4.52
+2012-09-01,2012M09,Viviendas,Total,3.99
+2012-09-01,2012M09,Viviendas,Variable,3.97
+2012-10-01,2012M10,Total fincas,Fijo,5.72
+2012-10-01,2012M10,Total fincas,Total,4.1
+2012-10-01,2012M10,Total fincas,Variable,4.0
+2012-10-01,2012M10,Viviendas,Fijo,5.61
+2012-10-01,2012M10,Viviendas,Total,4.14
+2012-10-01,2012M10,Viviendas,Variable,4.08
+2012-11-01,2012M11,Total fincas,Fijo,5.38
+2012-11-01,2012M11,Total fincas,Total,4.14
+2012-11-01,2012M11,Total fincas,Variable,4.06
+2012-11-01,2012M11,Viviendas,Fijo,5.75
+2012-11-01,2012M11,Viviendas,Total,4.22
+2012-11-01,2012M11,Viviendas,Variable,4.16
+2012-12-01,2012M12,Total fincas,Fijo,5.75
+2012-12-01,2012M12,Total fincas,Total,4.2
+2012-12-01,2012M12,Total fincas,Variable,4.1
+2012-12-01,2012M12,Viviendas,Fijo,5.75
+2012-12-01,2012M12,Viviendas,Total,4.42
+2012-12-01,2012M12,Viviendas,Variable,4.37
+2013-01-01,2013M01,Total fincas,Fijo,5.58
+2013-01-01,2013M01,Total fincas,Total,4.06
+2013-01-01,2013M01,Total fincas,Variable,3.95
+2013-01-01,2013M01,Viviendas,Fijo,5.53
+2013-01-01,2013M01,Viviendas,Total,4.08
+2013-01-01,2013M01,Viviendas,Variable,4.03
+2013-02-01,2013M02,Total fincas,Fijo,5.36
+2013-02-01,2013M02,Total fincas,Total,4.14
+2013-02-01,2013M02,Total fincas,Variable,4.03
+2013-02-01,2013M02,Viviendas,Fijo,5.1
+2013-02-01,2013M02,Viviendas,Total,4.1
+2013-02-01,2013M02,Viviendas,Variable,4.05
+2013-03-01,2013M03,Total fincas,Fijo,5.76
+2013-03-01,2013M03,Total fincas,Total,4.17
+2013-03-01,2013M03,Total fincas,Variable,4.06
+2013-03-01,2013M03,Viviendas,Fijo,5.85
+2013-03-01,2013M03,Viviendas,Total,4.27
+2013-03-01,2013M03,Viviendas,Variable,4.21
+2013-04-01,2013M04,Total fincas,Fijo,5.88
+2013-04-01,2013M04,Total fincas,Total,4.2
+2013-04-01,2013M04,Total fincas,Variable,4.08
+2013-04-01,2013M04,Viviendas,Fijo,6.14
+2013-04-01,2013M04,Viviendas,Total,4.26
+2013-04-01,2013M04,Viviendas,Variable,4.18
+2013-05-01,2013M05,Total fincas,Fijo,5.67
+2013-05-01,2013M05,Total fincas,Total,3.84
+2013-05-01,2013M05,Total fincas,Variable,3.7
+2013-05-01,2013M05,Viviendas,Fijo,5.82
+2013-05-01,2013M05,Viviendas,Total,4.34
+2013-05-01,2013M05,Viviendas,Variable,4.28
+2013-06-01,2013M06,Total fincas,Fijo,5.62
+2013-06-01,2013M06,Total fincas,Total,4.17
+2013-06-01,2013M06,Total fincas,Variable,4.05
+2013-06-01,2013M06,Viviendas,Fijo,5.68
+2013-06-01,2013M06,Viviendas,Total,4.25
+2013-06-01,2013M06,Viviendas,Variable,4.18
+2013-07-01,2013M07,Total fincas,Fijo,5.36
+2013-07-01,2013M07,Total fincas,Total,4.01
+2013-07-01,2013M07,Total fincas,Variable,3.9
+2013-07-01,2013M07,Viviendas,Fijo,5.52
+2013-07-01,2013M07,Viviendas,Total,4.26
+2013-07-01,2013M07,Viviendas,Variable,4.2
+2013-08-01,2013M08,Total fincas,Fijo,5.61
+2013-08-01,2013M08,Total fincas,Total,4.05
+2013-08-01,2013M08,Total fincas,Variable,3.9
+2013-08-01,2013M08,Viviendas,Fijo,5.97
+2013-08-01,2013M08,Viviendas,Total,4.3
+2013-08-01,2013M08,Viviendas,Variable,4.2
+2013-09-01,2013M09,Total fincas,Fijo,5.41
+2013-09-01,2013M09,Total fincas,Total,4.17
+2013-09-01,2013M09,Total fincas,Variable,4.03
+2013-09-01,2013M09,Viviendas,Fijo,5.38
+2013-09-01,2013M09,Viviendas,Total,4.15
+2013-09-01,2013M09,Viviendas,Variable,4.08
+2013-10-01,2013M10,Total fincas,Fijo,5.42
+2013-10-01,2013M10,Total fincas,Total,4.05
+2013-10-01,2013M10,Total fincas,Variable,3.92
+2013-10-01,2013M10,Viviendas,Fijo,5.82
+2013-10-01,2013M10,Viviendas,Total,4.18
+2013-10-01,2013M10,Viviendas,Variable,4.1
+2013-11-01,2013M11,Total fincas,Fijo,5.65
+2013-11-01,2013M11,Total fincas,Total,4.26
+2013-11-01,2013M11,Total fincas,Variable,4.16
+2013-11-01,2013M11,Viviendas,Fijo,6.05
+2013-11-01,2013M11,Viviendas,Total,4.27
+2013-11-01,2013M11,Viviendas,Variable,4.19
+2013-12-01,2013M12,Total fincas,Fijo,5.52
+2013-12-01,2013M12,Total fincas,Total,4.13
+2013-12-01,2013M12,Total fincas,Variable,3.99
+2013-12-01,2013M12,Viviendas,Fijo,5.52
+2013-12-01,2013M12,Viviendas,Total,4.21
+2013-12-01,2013M12,Viviendas,Variable,4.14
+2014-01-01,2014M01,Total fincas,Fijo,5.41
+2014-01-01,2014M01,Total fincas,Total,3.84
+2014-01-01,2014M01,Total fincas,Variable,3.69
+2014-01-01,2014M01,Viviendas,Fijo,5.9
+2014-01-01,2014M01,Viviendas,Total,4.13
+2014-01-01,2014M01,Viviendas,Variable,4.05
+2014-02-01,2014M02,Total fincas,Fijo,5.46
+2014-02-01,2014M02,Total fincas,Total,4.0
+2014-02-01,2014M02,Total fincas,Variable,3.89
+2014-02-01,2014M02,Viviendas,Fijo,5.6
+2014-02-01,2014M02,Viviendas,Total,4.12
+2014-02-01,2014M02,Viviendas,Variable,4.05
+2014-03-01,2014M03,Total fincas,Fijo,5.39
+2014-03-01,2014M03,Total fincas,Total,3.95
+2014-03-01,2014M03,Total fincas,Variable,3.83
+2014-03-01,2014M03,Viviendas,Fijo,5.67
+2014-03-01,2014M03,Viviendas,Total,4.04
+2014-03-01,2014M03,Viviendas,Variable,3.95
+2014-04-01,2014M04,Total fincas,Fijo,5.71
+2014-04-01,2014M04,Total fincas,Total,3.9
+2014-04-01,2014M04,Total fincas,Variable,3.75
+2014-04-01,2014M04,Viviendas,Fijo,5.71
+2014-04-01,2014M04,Viviendas,Total,4.03
+2014-04-01,2014M04,Viviendas,Variable,3.94
+2014-05-01,2014M05,Total fincas,Fijo,5.75
+2014-05-01,2014M05,Total fincas,Total,3.83
+2014-05-01,2014M05,Total fincas,Variable,3.72
+2014-05-01,2014M05,Viviendas,Fijo,5.8
+2014-05-01,2014M05,Viviendas,Total,3.83
+2014-05-01,2014M05,Viviendas,Variable,3.75
+2014-06-01,2014M06,Total fincas,Fijo,5.71
+2014-06-01,2014M06,Total fincas,Total,3.95
+2014-06-01,2014M06,Total fincas,Variable,3.68
+2014-06-01,2014M06,Viviendas,Fijo,5.42
+2014-06-01,2014M06,Viviendas,Total,3.88
+2014-06-01,2014M06,Viviendas,Variable,3.81
+2014-07-01,2014M07,Total fincas,Fijo,5.65
+2014-07-01,2014M07,Total fincas,Total,3.83
+2014-07-01,2014M07,Total fincas,Variable,3.69
+2014-07-01,2014M07,Viviendas,Fijo,5.67
+2014-07-01,2014M07,Viviendas,Total,3.86
+2014-07-01,2014M07,Viviendas,Variable,3.79
+2014-08-01,2014M08,Total fincas,Fijo,6.0
+2014-08-01,2014M08,Total fincas,Total,4.12
+2014-08-01,2014M08,Total fincas,Variable,3.84
+2014-08-01,2014M08,Viviendas,Fijo,5.27
+2014-08-01,2014M08,Viviendas,Total,3.79
+2014-08-01,2014M08,Viviendas,Variable,3.73
+2014-09-01,2014M09,Total fincas,Fijo,5.21
+2014-09-01,2014M09,Total fincas,Total,3.74
+2014-09-01,2014M09,Total fincas,Variable,3.64
+2014-09-01,2014M09,Viviendas,Fijo,5.16
+2014-09-01,2014M09,Viviendas,Total,3.68
+2014-09-01,2014M09,Viviendas,Variable,3.61
+2014-10-01,2014M10,Total fincas,Fijo,5.56
+2014-10-01,2014M10,Total fincas,Total,3.76
+2014-10-01,2014M10,Total fincas,Variable,3.58
+2014-10-01,2014M10,Viviendas,Fijo,5.46
+2014-10-01,2014M10,Viviendas,Total,3.6
+2014-10-01,2014M10,Viviendas,Variable,3.5
+2014-11-01,2014M11,Total fincas,Fijo,5.7
+2014-11-01,2014M11,Total fincas,Total,3.54
+2014-11-01,2014M11,Total fincas,Variable,3.35
+2014-11-01,2014M11,Viviendas,Fijo,5.63
+2014-11-01,2014M11,Viviendas,Total,3.56
+2014-11-01,2014M11,Viviendas,Variable,3.45
+2014-12-01,2014M12,Total fincas,Fijo,5.39
+2014-12-01,2014M12,Total fincas,Total,3.47
+2014-12-01,2014M12,Total fincas,Variable,3.32
+2014-12-01,2014M12,Viviendas,Fijo,5.68
+2014-12-01,2014M12,Viviendas,Total,3.5
+2014-12-01,2014M12,Viviendas,Variable,3.38
+2015-01-01,2015M01,Total fincas,Fijo,5.1
+2015-01-01,2015M01,Total fincas,Total,3.3
+2015-01-01,2015M01,Total fincas,Variable,3.18
+2015-01-01,2015M01,Viviendas,Fijo,5.31
+2015-01-01,2015M01,Viviendas,Total,3.29
+2015-01-01,2015M01,Viviendas,Variable,3.19
+2015-02-01,2015M02,Total fincas,Fijo,5.01
+2015-02-01,2015M02,Total fincas,Total,3.34
+2015-02-01,2015M02,Total fincas,Variable,3.22
+2015-02-01,2015M02,Viviendas,Fijo,5.07
+2015-02-01,2015M02,Viviendas,Total,3.35
+2015-02-01,2015M02,Viviendas,Variable,3.28
+2015-03-01,2015M03,Total fincas,Fijo,5.3
+2015-03-01,2015M03,Total fincas,Total,3.45
+2015-03-01,2015M03,Total fincas,Variable,3.24
+2015-03-01,2015M03,Viviendas,Fijo,5.22
+2015-03-01,2015M03,Viviendas,Total,3.35
+2015-03-01,2015M03,Viviendas,Variable,3.26
+2015-04-01,2015M04,Total fincas,Fijo,4.98
+2015-04-01,2015M04,Total fincas,Total,3.16
+2015-04-01,2015M04,Total fincas,Variable,2.99
+2015-04-01,2015M04,Viviendas,Fijo,5.09
+2015-04-01,2015M04,Viviendas,Total,3.27
+2015-04-01,2015M04,Viviendas,Variable,3.17
+2015-05-01,2015M05,Total fincas,Fijo,5.54
+2015-05-01,2015M05,Total fincas,Total,3.47
+2015-05-01,2015M05,Total fincas,Variable,3.13
+2015-05-01,2015M05,Viviendas,Fijo,4.8
+2015-05-01,2015M05,Viviendas,Total,3.36
+2015-05-01,2015M05,Viviendas,Variable,3.29
+2015-06-01,2015M06,Total fincas,Fijo,5.19
+2015-06-01,2015M06,Total fincas,Total,3.18
+2015-06-01,2015M06,Total fincas,Variable,2.99
+2015-06-01,2015M06,Viviendas,Fijo,5.02
+2015-06-01,2015M06,Viviendas,Total,3.31
+2015-06-01,2015M06,Viviendas,Variable,3.19
+2015-07-01,2015M07,Total fincas,Fijo,3.94
+2015-07-01,2015M07,Total fincas,Total,3.27
+2015-07-01,2015M07,Total fincas,Variable,3.14
+2015-07-01,2015M07,Viviendas,Fijo,4.26
+2015-07-01,2015M07,Viviendas,Total,3.35
+2015-07-01,2015M07,Viviendas,Variable,3.29
+2015-08-01,2015M08,Total fincas,Fijo,4.0
+2015-08-01,2015M08,Total fincas,Total,3.17
+2015-08-01,2015M08,Total fincas,Variable,3.01
+2015-08-01,2015M08,Viviendas,Fijo,4.3
+2015-08-01,2015M08,Viviendas,Total,3.24
+2015-08-01,2015M08,Viviendas,Variable,3.14
+2015-09-01,2015M09,Total fincas,Fijo,4.01
+2015-09-01,2015M09,Total fincas,Total,3.21
+2015-09-01,2015M09,Total fincas,Variable,3.12
+2015-09-01,2015M09,Viviendas,Fijo,4.1
+2015-09-01,2015M09,Viviendas,Total,3.3
+2015-09-01,2015M09,Viviendas,Variable,3.24
+2015-10-01,2015M10,Total fincas,Fijo,4.2
+2015-10-01,2015M10,Total fincas,Total,3.1
+2015-10-01,2015M10,Total fincas,Variable,2.98
+2015-10-01,2015M10,Viviendas,Fijo,3.97
+2015-10-01,2015M10,Viviendas,Total,3.28
+2015-10-01,2015M10,Viviendas,Variable,3.22
+2015-11-01,2015M11,Total fincas,Fijo,4.34
+2015-11-01,2015M11,Total fincas,Total,3.12
+2015-11-01,2015M11,Total fincas,Variable,2.99
+2015-11-01,2015M11,Viviendas,Fijo,4.08
+2015-11-01,2015M11,Viviendas,Total,3.23
+2015-11-01,2015M11,Viviendas,Variable,3.16
+2015-12-01,2015M12,Total fincas,Fijo,4.2
+2015-12-01,2015M12,Total fincas,Total,3.42
+2015-12-01,2015M12,Total fincas,Variable,3.33
+2015-12-01,2015M12,Viviendas,Fijo,3.95
+2015-12-01,2015M12,Viviendas,Total,3.36
+2015-12-01,2015M12,Viviendas,Variable,3.3
+2016-01-01,2016M01,Total fincas,Fijo,3.92
+2016-01-01,2016M01,Total fincas,Total,3.21
+2016-01-01,2016M01,Total fincas,Variable,3.11
+2016-01-01,2016M01,Viviendas,Fijo,4.12
+2016-01-01,2016M01,Viviendas,Total,3.27
+2016-01-01,2016M01,Viviendas,Variable,3.18
+2016-02-01,2016M02,Total fincas,Fijo,4.61
+2016-02-01,2016M02,Total fincas,Total,3.31
+2016-02-01,2016M02,Total fincas,Variable,3.13
+2016-02-01,2016M02,Viviendas,Fijo,4.06
+2016-02-01,2016M02,Viviendas,Total,3.29
+2016-02-01,2016M02,Viviendas,Variable,3.21
+2016-03-01,2016M03,Total fincas,Fijo,4.31
+2016-03-01,2016M03,Total fincas,Total,3.23
+2016-03-01,2016M03,Total fincas,Variable,3.08
+2016-03-01,2016M03,Viviendas,Fijo,3.87
+2016-03-01,2016M03,Viviendas,Total,3.25
+2016-03-01,2016M03,Viviendas,Variable,3.18
+2016-04-01,2016M04,Total fincas,Fijo,3.74
+2016-04-01,2016M04,Total fincas,Total,3.2
+2016-04-01,2016M04,Total fincas,Variable,3.14
+2016-04-01,2016M04,Viviendas,Fijo,3.66
+2016-04-01,2016M04,Viviendas,Total,3.2
+2016-04-01,2016M04,Viviendas,Variable,3.13
+2016-05-01,2016M05,Total fincas,Fijo,3.65
+2016-05-01,2016M05,Total fincas,Total,3.2
+2016-05-01,2016M05,Total fincas,Variable,3.11
+2016-05-01,2016M05,Viviendas,Fijo,3.49
+2016-05-01,2016M05,Viviendas,Total,3.16
+2016-05-01,2016M05,Viviendas,Variable,3.1
+2016-06-01,2016M06,Total fincas,Fijo,3.6
+2016-06-01,2016M06,Total fincas,Total,3.13
+2016-06-01,2016M06,Total fincas,Variable,3.01
+2016-06-01,2016M06,Viviendas,Fijo,3.4
+2016-06-01,2016M06,Viviendas,Total,3.19
+2016-06-01,2016M06,Viviendas,Variable,3.14
+2016-07-01,2016M07,Total fincas,Fijo,3.8
+2016-07-01,2016M07,Total fincas,Total,3.22
+2016-07-01,2016M07,Total fincas,Variable,3.06
+2016-07-01,2016M07,Viviendas,Fijo,3.58
+2016-07-01,2016M07,Viviendas,Total,3.25
+2016-07-01,2016M07,Viviendas,Variable,3.15
+2016-08-01,2016M08,Total fincas,Fijo,3.34
+2016-08-01,2016M08,Total fincas,Total,3.08
+2016-08-01,2016M08,Total fincas,Variable,3.0
+2016-08-01,2016M08,Viviendas,Fijo,3.28
+2016-08-01,2016M08,Viviendas,Total,3.24
+2016-08-01,2016M08,Viviendas,Variable,3.23
+2016-09-01,2016M09,Total fincas,Fijo,3.46
+2016-09-01,2016M09,Total fincas,Total,3.09
+2016-09-01,2016M09,Total fincas,Variable,2.95
+2016-09-01,2016M09,Viviendas,Fijo,3.31
+2016-09-01,2016M09,Viviendas,Total,3.18
+2016-09-01,2016M09,Viviendas,Variable,3.13
+2016-10-01,2016M10,Total fincas,Fijo,3.27
+2016-10-01,2016M10,Total fincas,Total,3.06
+2016-10-01,2016M10,Total fincas,Variable,2.99
+2016-10-01,2016M10,Viviendas,Fijo,3.21
+2016-10-01,2016M10,Viviendas,Total,3.17
+2016-10-01,2016M10,Viviendas,Variable,3.15
+2016-11-01,2016M11,Total fincas,Fijo,3.22
+2016-11-01,2016M11,Total fincas,Total,3.01
+2016-11-01,2016M11,Total fincas,Variable,2.94
+2016-11-01,2016M11,Viviendas,Fijo,3.2
+2016-11-01,2016M11,Viviendas,Total,3.16
+2016-11-01,2016M11,Viviendas,Variable,3.15
+2016-12-01,2016M12,Total fincas,Fijo,3.3
+2016-12-01,2016M12,Total fincas,Total,3.13
+2016-12-01,2016M12,Total fincas,Variable,3.08
+2016-12-01,2016M12,Viviendas,Fijo,3.24
+2016-12-01,2016M12,Viviendas,Total,3.15
+2016-12-01,2016M12,Viviendas,Variable,3.12
+2017-01-01,2017M01,Total fincas,Fijo,3.42
+2017-01-01,2017M01,Total fincas,Total,3.31
+2017-01-01,2017M01,Total fincas,Variable,3.27
+2017-01-01,2017M01,Viviendas,Fijo,3.21
+2017-01-01,2017M01,Viviendas,Total,3.12
+2017-01-01,2017M01,Viviendas,Variable,3.07
+2017-02-01,2017M02,Total fincas,Fijo,3.37
+2017-02-01,2017M02,Total fincas,Total,3.06
+2017-02-01,2017M02,Total fincas,Variable,2.94
+2017-02-01,2017M02,Viviendas,Fijo,3.2
+2017-02-01,2017M02,Viviendas,Total,3.13
+2017-02-01,2017M02,Viviendas,Variable,3.1
+2017-03-01,2017M03,Total fincas,Fijo,3.34
+2017-03-01,2017M03,Total fincas,Total,3.25
+2017-03-01,2017M03,Total fincas,Variable,3.22
+2017-03-01,2017M03,Viviendas,Fijo,3.27
+2017-03-01,2017M03,Viviendas,Total,3.23
+2017-03-01,2017M03,Viviendas,Variable,3.2
+2017-04-01,2017M04,Total fincas,Fijo,3.35
+2017-04-01,2017M04,Total fincas,Total,3.09
+2017-04-01,2017M04,Total fincas,Variable,2.99
+2017-04-01,2017M04,Viviendas,Fijo,3.36
+2017-04-01,2017M04,Viviendas,Total,3.2
+2017-04-01,2017M04,Viviendas,Variable,3.12
+2017-05-01,2017M05,Total fincas,Fijo,2.93
+2017-05-01,2017M05,Total fincas,Total,2.75
+2017-05-01,2017M05,Total fincas,Variable,2.66
+2017-05-01,2017M05,Viviendas,Fijo,3.06
+2017-05-01,2017M05,Viviendas,Total,2.88
+2017-05-01,2017M05,Viviendas,Variable,2.79
+2017-06-01,2017M06,Total fincas,Fijo,3.23
+2017-06-01,2017M06,Total fincas,Total,2.68
+2017-06-01,2017M06,Total fincas,Variable,2.46
+2017-06-01,2017M06,Viviendas,Fijo,3.14
+2017-06-01,2017M06,Viviendas,Total,2.76
+2017-06-01,2017M06,Viviendas,Variable,2.58
+2017-07-01,2017M07,Total fincas,Fijo,3.26
+2017-07-01,2017M07,Total fincas,Total,2.72
+2017-07-01,2017M07,Total fincas,Variable,2.5
+2017-07-01,2017M07,Viviendas,Fijo,3.12
+2017-07-01,2017M07,Viviendas,Total,2.76
+2017-07-01,2017M07,Viviendas,Variable,2.59
+2017-08-01,2017M08,Total fincas,Fijo,2.98
+2017-08-01,2017M08,Total fincas,Total,2.6
+2017-08-01,2017M08,Total fincas,Variable,2.44
+2017-08-01,2017M08,Viviendas,Fijo,3.09
+2017-08-01,2017M08,Viviendas,Total,2.74
+2017-08-01,2017M08,Viviendas,Variable,2.57
+2017-09-01,2017M09,Total fincas,Fijo,3.17
+2017-09-01,2017M09,Total fincas,Total,2.68
+2017-09-01,2017M09,Total fincas,Variable,2.47
+2017-09-01,2017M09,Viviendas,Fijo,3.21
+2017-09-01,2017M09,Viviendas,Total,2.83
+2017-09-01,2017M09,Viviendas,Variable,2.65
+2017-10-01,2017M10,Total fincas,Fijo,3.36
+2017-10-01,2017M10,Total fincas,Total,2.69
+2017-10-01,2017M10,Total fincas,Variable,2.44
+2017-10-01,2017M10,Viviendas,Fijo,3.11
+2017-10-01,2017M10,Viviendas,Total,2.69
+2017-10-01,2017M10,Viviendas,Variable,2.5
+2017-11-01,2017M11,Total fincas,Fijo,3.57
+2017-11-01,2017M11,Total fincas,Total,2.76
+2017-11-01,2017M11,Total fincas,Variable,2.44
+2017-11-01,2017M11,Viviendas,Fijo,3.11
+2017-11-01,2017M11,Viviendas,Total,2.71
+2017-11-01,2017M11,Viviendas,Variable,2.53
+2017-12-01,2017M12,Total fincas,Fijo,3.26
+2017-12-01,2017M12,Total fincas,Total,2.66
+2017-12-01,2017M12,Total fincas,Variable,2.39
+2017-12-01,2017M12,Viviendas,Fijo,3.13
+2017-12-01,2017M12,Viviendas,Total,2.73
+2017-12-01,2017M12,Viviendas,Variable,2.54
+2018-01-01,2018M01,Total fincas,Fijo,3.33
+2018-01-01,2018M01,Total fincas,Total,2.65
+2018-01-01,2018M01,Total fincas,Variable,2.36
+2018-01-01,2018M01,Viviendas,Fijo,3.04
+2018-01-01,2018M01,Viviendas,Total,2.68
+2018-01-01,2018M01,Viviendas,Variable,2.52
+2018-02-01,2018M02,Total fincas,Fijo,3.22
+2018-02-01,2018M02,Total fincas,Total,2.63
+2018-02-01,2018M02,Total fincas,Variable,2.37
+2018-02-01,2018M02,Viviendas,Fijo,3.04
+2018-02-01,2018M02,Viviendas,Total,2.65
+2018-02-01,2018M02,Viviendas,Variable,2.46
+2018-03-01,2018M03,Total fincas,Fijo,3.11
+2018-03-01,2018M03,Total fincas,Total,2.64
+2018-03-01,2018M03,Total fincas,Variable,2.44
+2018-03-01,2018M03,Viviendas,Fijo,3.06
+2018-03-01,2018M03,Viviendas,Total,2.62
+2018-03-01,2018M03,Viviendas,Variable,2.41
+2018-04-01,2018M04,Total fincas,Fijo,3.23
+2018-04-01,2018M04,Total fincas,Total,2.64
+2018-04-01,2018M04,Total fincas,Variable,2.38
+2018-04-01,2018M04,Viviendas,Fijo,3.15
+2018-04-01,2018M04,Viviendas,Total,2.67
+2018-04-01,2018M04,Viviendas,Variable,2.42
+2018-05-01,2018M05,Total fincas,Fijo,3.13
+2018-05-01,2018M05,Total fincas,Total,2.61
+2018-05-01,2018M05,Total fincas,Variable,2.37
+2018-05-01,2018M05,Viviendas,Fijo,3.05
+2018-05-01,2018M05,Viviendas,Total,2.61
+2018-05-01,2018M05,Viviendas,Variable,2.37
+2018-06-01,2018M06,Total fincas,Fijo,3.2
+2018-06-01,2018M06,Total fincas,Total,2.55
+2018-06-01,2018M06,Total fincas,Variable,2.28
+2018-06-01,2018M06,Viviendas,Fijo,3.05
+2018-06-01,2018M06,Viviendas,Total,2.65
+2018-06-01,2018M06,Viviendas,Variable,2.44
+2018-07-01,2018M07,Total fincas,Fijo,3.08
+2018-07-01,2018M07,Total fincas,Total,2.54
+2018-07-01,2018M07,Total fincas,Variable,2.31
+2018-07-01,2018M07,Viviendas,Fijo,3.01
+2018-07-01,2018M07,Viviendas,Total,2.59
+2018-07-01,2018M07,Viviendas,Variable,2.36
+2018-08-01,2018M08,Total fincas,Fijo,3.14
+2018-08-01,2018M08,Total fincas,Total,2.54
+2018-08-01,2018M08,Total fincas,Variable,2.28
+2018-08-01,2018M08,Viviendas,Fijo,3.01
+2018-08-01,2018M08,Viviendas,Total,2.63
+2018-08-01,2018M08,Viviendas,Variable,2.42
+2018-09-01,2018M09,Total fincas,Fijo,3.24
+2018-09-01,2018M09,Total fincas,Total,2.63
+2018-09-01,2018M09,Total fincas,Variable,2.35
+2018-09-01,2018M09,Viviendas,Fijo,3.03
+2018-09-01,2018M09,Viviendas,Total,2.59
+2018-09-01,2018M09,Viviendas,Variable,2.36
+2018-10-01,2018M10,Total fincas,Fijo,3.06
+2018-10-01,2018M10,Total fincas,Total,2.58
+2018-10-01,2018M10,Total fincas,Variable,2.35
+2018-10-01,2018M10,Viviendas,Fijo,3.02
+2018-10-01,2018M10,Viviendas,Total,2.63
+2018-10-01,2018M10,Viviendas,Variable,2.42
+2018-11-01,2018M11,Total fincas,Fijo,3.09
+2018-11-01,2018M11,Total fincas,Total,2.62
+2018-11-01,2018M11,Total fincas,Variable,2.43
+2018-11-01,2018M11,Viviendas,Fijo,3.0
+2018-11-01,2018M11,Viviendas,Total,2.63
+2018-11-01,2018M11,Viviendas,Variable,2.45
+2018-12-01,2018M12,Total fincas,Fijo,2.88
+2018-12-01,2018M12,Total fincas,Total,2.43
+2018-12-01,2018M12,Total fincas,Variable,2.2
+2018-12-01,2018M12,Viviendas,Fijo,2.98
+2018-12-01,2018M12,Viviendas,Total,2.62
+2018-12-01,2018M12,Viviendas,Variable,2.42
+2019-01-01,2019M01,Total fincas,Fijo,3.03
+2019-01-01,2019M01,Total fincas,Total,2.61
+2019-01-01,2019M01,Total fincas,Variable,2.44
+2019-01-01,2019M01,Viviendas,Fijo,3.09
+2019-01-01,2019M01,Viviendas,Total,2.59
+2019-01-01,2019M01,Viviendas,Variable,2.34
+2019-02-01,2019M02,Total fincas,Fijo,3.3
+2019-02-01,2019M02,Total fincas,Total,2.63
+2019-02-01,2019M02,Total fincas,Variable,2.33
+2019-02-01,2019M02,Viviendas,Fijo,3.05
+2019-02-01,2019M02,Viviendas,Total,2.62
+2019-02-01,2019M02,Viviendas,Variable,2.36
+2019-03-01,2019M03,Total fincas,Fijo,3.24
+2019-03-01,2019M03,Total fincas,Total,2.59
+2019-03-01,2019M03,Total fincas,Variable,2.28
+2019-03-01,2019M03,Viviendas,Fijo,3.11
+2019-03-01,2019M03,Viviendas,Total,2.62
+2019-03-01,2019M03,Viviendas,Variable,2.35
+2019-04-01,2019M04,Total fincas,Fijo,3.07
+2019-04-01,2019M04,Total fincas,Total,2.47
+2019-04-01,2019M04,Total fincas,Variable,2.19
+2019-04-01,2019M04,Viviendas,Fijo,3.09
+2019-04-01,2019M04,Viviendas,Total,2.57
+2019-04-01,2019M04,Viviendas,Variable,2.28
+2019-05-01,2019M05,Total fincas,Fijo,3.32
+2019-05-01,2019M05,Total fincas,Total,2.57
+2019-05-01,2019M05,Total fincas,Variable,2.21
+2019-05-01,2019M05,Viviendas,Fijo,3.11
+2019-05-01,2019M05,Viviendas,Total,2.63
+2019-05-01,2019M05,Viviendas,Variable,2.35
+2019-06-01,2019M06,Total fincas,Fijo,3.05
+2019-06-01,2019M06,Total fincas,Total,2.53
+2019-06-01,2019M06,Total fincas,Variable,2.26
+2019-06-01,2019M06,Viviendas,Fijo,3.0
+2019-06-01,2019M06,Viviendas,Total,2.6
+2019-06-01,2019M06,Viviendas,Variable,2.36
+2019-07-01,2019M07,Total fincas,Fijo,3.17
+2019-07-01,2019M07,Total fincas,Total,2.52
+2019-07-01,2019M07,Total fincas,Variable,2.15
+2019-07-01,2019M07,Viviendas,Fijo,3.05
+2019-07-01,2019M07,Viviendas,Total,2.59
+2019-07-01,2019M07,Viviendas,Variable,2.3
+2019-08-01,2019M08,Total fincas,Fijo,3.15
+2019-08-01,2019M08,Total fincas,Total,2.53
+2019-08-01,2019M08,Total fincas,Variable,2.23
+2019-08-01,2019M08,Viviendas,Fijo,3.0
+2019-08-01,2019M08,Viviendas,Total,2.56
+2019-08-01,2019M08,Viviendas,Variable,2.32
+2019-09-01,2019M09,Total fincas,Fijo,3.15
+2019-09-01,2019M09,Total fincas,Total,2.41
+2019-09-01,2019M09,Total fincas,Variable,2.13
+2019-09-01,2019M09,Viviendas,Fijo,3.09
+2019-09-01,2019M09,Viviendas,Total,2.52
+2019-09-01,2019M09,Viviendas,Variable,2.25
+2019-10-01,2019M10,Total fincas,Fijo,3.23
+2019-10-01,2019M10,Total fincas,Total,2.51
+2019-10-01,2019M10,Total fincas,Variable,2.1
+2019-10-01,2019M10,Viviendas,Fijo,3.01
+2019-10-01,2019M10,Viviendas,Total,2.51
+2019-10-01,2019M10,Viviendas,Variable,2.19
+2019-11-01,2019M11,Total fincas,Fijo,2.98
+2019-11-01,2019M11,Total fincas,Total,2.4
+2019-11-01,2019M11,Total fincas,Variable,2.08
+2019-11-01,2019M11,Viviendas,Fijo,2.99
+2019-11-01,2019M11,Viviendas,Total,2.48
+2019-11-01,2019M11,Viviendas,Variable,2.17
+2019-12-01,2019M12,Total fincas,Fijo,2.99
+2019-12-01,2019M12,Total fincas,Total,2.44
+2019-12-01,2019M12,Total fincas,Variable,2.13
+2019-12-01,2019M12,Viviendas,Fijo,3.05
+2019-12-01,2019M12,Viviendas,Total,2.51
+2019-12-01,2019M12,Viviendas,Variable,2.18
+2020-01-01,2020M01,Total fincas,Fijo,2.62
+2020-01-01,2020M01,Total fincas,Total,2.27
+2020-01-01,2020M01,Total fincas,Variable,2.09
+2020-01-01,2020M01,Viviendas,Fijo,2.47
+2020-01-01,2020M01,Viviendas,Total,2.19
+2020-01-01,2020M01,Viviendas,Variable,2.01
+2020-02-01,2020M02,Total fincas,Fijo,2.48
+2020-02-01,2020M02,Total fincas,Total,2.44
+2020-02-01,2020M02,Total fincas,Variable,2.42
+2020-02-01,2020M02,Viviendas,Fijo,2.44
+2020-02-01,2020M02,Viviendas,Total,2.53
+2020-02-01,2020M02,Viviendas,Variable,2.58
+2020-03-01,2020M03,Total fincas,Fijo,2.61
+2020-03-01,2020M03,Total fincas,Total,2.4
+2020-03-01,2020M03,Total fincas,Variable,2.26
+2020-03-01,2020M03,Viviendas,Fijo,2.34
+2020-03-01,2020M03,Viviendas,Total,2.15
+2020-03-01,2020M03,Viviendas,Variable,1.97
+2020-04-01,2020M04,Total fincas,Fijo,2.47
+2020-04-01,2020M04,Total fincas,Total,2.25
+2020-04-01,2020M04,Total fincas,Variable,2.08
+2020-04-01,2020M04,Viviendas,Fijo,2.28
+2020-04-01,2020M04,Viviendas,Total,2.1
+2020-04-01,2020M04,Viviendas,Variable,1.93
+2020-05-01,2020M05,Total fincas,Fijo,2.29
+2020-05-01,2020M05,Total fincas,Total,2.18
+2020-05-01,2020M05,Total fincas,Variable,2.1
+2020-05-01,2020M05,Viviendas,Fijo,2.23
+2020-05-01,2020M05,Viviendas,Total,2.14
+2020-05-01,2020M05,Viviendas,Variable,2.05
+2020-06-01,2020M06,Total fincas,Fijo,2.43
+2020-06-01,2020M06,Total fincas,Total,2.19
+2020-06-01,2020M06,Total fincas,Variable,2.01
+2020-06-01,2020M06,Viviendas,Fijo,2.39
+2020-06-01,2020M06,Viviendas,Total,2.17
+2020-06-01,2020M06,Viviendas,Variable,2.0
+2020-07-01,2020M07,Total fincas,Fijo,2.79
+2020-07-01,2020M07,Total fincas,Total,2.7
+2020-07-01,2020M07,Total fincas,Variable,2.64
+2020-07-01,2020M07,Viviendas,Fijo,2.29
+2020-07-01,2020M07,Viviendas,Total,2.18
+2020-07-01,2020M07,Viviendas,Variable,2.1
+2020-08-01,2020M08,Total fincas,Fijo,2.36
+2020-08-01,2020M08,Total fincas,Total,2.19
+2020-08-01,2020M08,Total fincas,Variable,2.09
+2020-08-01,2020M08,Viviendas,Fijo,2.37
+2020-08-01,2020M08,Viviendas,Total,2.16
+2020-08-01,2020M08,Viviendas,Variable,2.0
+2020-09-01,2020M09,Total fincas,Fijo,2.33
+2020-09-01,2020M09,Total fincas,Total,2.11
+2020-09-01,2020M09,Total fincas,Variable,1.95
+2020-09-01,2020M09,Viviendas,Fijo,2.23
+2020-09-01,2020M09,Viviendas,Total,2.05
+2020-09-01,2020M09,Viviendas,Variable,1.9
+2020-10-01,2020M10,Total fincas,Fijo,2.42
+2020-10-01,2020M10,Total fincas,Total,2.27
+2020-10-01,2020M10,Total fincas,Variable,2.18
+2020-10-01,2020M10,Viviendas,Fijo,2.25
+2020-10-01,2020M10,Viviendas,Total,2.21
+2020-10-01,2020M10,Viviendas,Variable,2.17
+2020-11-01,2020M11,Total fincas,Fijo,2.36
+2020-11-01,2020M11,Total fincas,Total,2.15
+2020-11-01,2020M11,Total fincas,Variable,1.99
+2020-11-01,2020M11,Viviendas,Fijo,2.2
+2020-11-01,2020M11,Viviendas,Total,2.07
+2020-11-01,2020M11,Viviendas,Variable,1.97
+2020-12-01,2020M12,Total fincas,Fijo,2.48
+2020-12-01,2020M12,Total fincas,Total,2.34
+2020-12-01,2020M12,Total fincas,Variable,2.24
+2020-12-01,2020M12,Viviendas,Fijo,2.15
+2020-12-01,2020M12,Viviendas,Total,2.16
+2020-12-01,2020M12,Viviendas,Variable,2.17
+2021-01-01,2021M01,Total fincas,Fijo,2.21
+2021-01-01,2021M01,Total fincas,Total,2.01
+2021-01-01,2021M01,Total fincas,Variable,1.86
+2021-01-01,2021M01,Viviendas,Fijo,2.1
+2021-01-01,2021M01,Viviendas,Total,1.99
+2021-01-01,2021M01,Viviendas,Variable,1.88
+2021-02-01,2021M02,Total fincas,Fijo,2.15
+2021-02-01,2021M02,Total fincas,Total,2.08
+2021-02-01,2021M02,Total fincas,Variable,2.02
+2021-02-01,2021M02,Viviendas,Fijo,2.03
+2021-02-01,2021M02,Viviendas,Total,1.98
+2021-02-01,2021M02,Viviendas,Variable,1.92
+2021-03-01,2021M03,Total fincas,Fijo,2.13
+2021-03-01,2021M03,Total fincas,Total,2.23
+2021-03-01,2021M03,Total fincas,Variable,2.32
+2021-03-01,2021M03,Viviendas,Fijo,2.01
+2021-03-01,2021M03,Viviendas,Total,2.02
+2021-03-01,2021M03,Viviendas,Variable,2.02
+2021-04-01,2021M04,Total fincas,Fijo,2.09
+2021-04-01,2021M04,Total fincas,Total,2.11
+2021-04-01,2021M04,Total fincas,Variable,2.13
+2021-04-01,2021M04,Viviendas,Fijo,1.99
+2021-04-01,2021M04,Viviendas,Total,1.99
+2021-04-01,2021M04,Viviendas,Variable,1.99
+2021-05-01,2021M05,Total fincas,Fijo,2.23
+2021-05-01,2021M05,Total fincas,Total,2.19
+2021-05-01,2021M05,Total fincas,Variable,2.15
+2021-05-01,2021M05,Viviendas,Fijo,1.97
+2021-05-01,2021M05,Viviendas,Total,1.99
+2021-05-01,2021M05,Viviendas,Variable,2.0
+2021-06-01,2021M06,Total fincas,Fijo,2.03
+2021-06-01,2021M06,Total fincas,Total,2.03
+2021-06-01,2021M06,Total fincas,Variable,2.02
+2021-06-01,2021M06,Viviendas,Fijo,1.91
+2021-06-01,2021M06,Viviendas,Total,1.93
+2021-06-01,2021M06,Viviendas,Variable,1.95
+2021-07-01,2021M07,Total fincas,Fijo,2.09
+2021-07-01,2021M07,Total fincas,Total,2.04
+2021-07-01,2021M07,Total fincas,Variable,1.96
+2021-07-01,2021M07,Viviendas,Fijo,1.88
+2021-07-01,2021M07,Viviendas,Total,1.86
+2021-07-01,2021M07,Viviendas,Variable,1.83
+2021-08-01,2021M08,Total fincas,Fijo,2.03
+2021-08-01,2021M08,Total fincas,Total,2.0
+2021-08-01,2021M08,Total fincas,Variable,1.97
+2021-08-01,2021M08,Viviendas,Fijo,1.84
+2021-08-01,2021M08,Viviendas,Total,1.85
+2021-08-01,2021M08,Viviendas,Variable,1.86
+2021-09-01,2021M09,Total fincas,Fijo,1.95
+2021-09-01,2021M09,Total fincas,Total,1.95
+2021-09-01,2021M09,Total fincas,Variable,1.95
+2021-09-01,2021M09,Viviendas,Fijo,1.78
+2021-09-01,2021M09,Viviendas,Total,1.84
+2021-09-01,2021M09,Viviendas,Variable,1.93
+2021-10-01,2021M10,Total fincas,Fijo,1.93
+2021-10-01,2021M10,Total fincas,Total,2.03
+2021-10-01,2021M10,Total fincas,Variable,2.15
+2021-10-01,2021M10,Viviendas,Fijo,1.8
+2021-10-01,2021M10,Viviendas,Total,1.87
+2021-10-01,2021M10,Viviendas,Variable,1.99
+2021-11-01,2021M11,Total fincas,Fijo,2.03
+2021-11-01,2021M11,Total fincas,Total,2.03
+2021-11-01,2021M11,Total fincas,Variable,2.01
+2021-11-01,2021M11,Viviendas,Fijo,1.86
+2021-11-01,2021M11,Viviendas,Total,1.87
+2021-11-01,2021M11,Viviendas,Variable,1.91
+2021-12-01,2021M12,Total fincas,Fijo,1.94
+2021-12-01,2021M12,Total fincas,Total,2.0
+2021-12-01,2021M12,Total fincas,Variable,2.08
+2021-12-01,2021M12,Viviendas,Fijo,1.89
+2021-12-01,2021M12,Viviendas,Total,1.88
+2021-12-01,2021M12,Viviendas,Variable,1.86
+2022-01-01,2022M01,Total fincas,Fijo,1.97
+2022-01-01,2022M01,Total fincas,Total,1.97
+2022-01-01,2022M01,Total fincas,Variable,1.97
+2022-01-01,2022M01,Viviendas,Fijo,1.81
+2022-01-01,2022M01,Viviendas,Total,1.85
+2022-01-01,2022M01,Viviendas,Variable,1.92
+2022-02-01,2022M02,Total fincas,Fijo,1.94
+2022-02-01,2022M02,Total fincas,Total,1.97
+2022-02-01,2022M02,Total fincas,Variable,2.02
+2022-02-01,2022M02,Viviendas,Fijo,1.76
+2022-02-01,2022M02,Viviendas,Total,1.76
+2022-02-01,2022M02,Viviendas,Variable,1.75
+2022-03-01,2022M03,Total fincas,Fijo,1.94
+2022-03-01,2022M03,Total fincas,Total,1.95
+2022-03-01,2022M03,Total fincas,Variable,1.96
+2022-03-01,2022M03,Viviendas,Fijo,1.79
+2022-03-01,2022M03,Viviendas,Total,1.8
+2022-03-01,2022M03,Viviendas,Variable,1.82
+2022-04-01,2022M04,Total fincas,Fijo,2.11
+2022-04-01,2022M04,Total fincas,Total,2.08
+2022-04-01,2022M04,Total fincas,Variable,2.03
+2022-04-01,2022M04,Viviendas,Fijo,1.75
+2022-04-01,2022M04,Viviendas,Total,1.77
+2022-04-01,2022M04,Viviendas,Variable,1.85
+2022-05-01,2022M05,Total fincas,Fijo,2.04
+2022-05-01,2022M05,Total fincas,Total,1.99
+2022-05-01,2022M05,Total fincas,Variable,1.92
+2022-05-01,2022M05,Viviendas,Fijo,1.8
+2022-05-01,2022M05,Viviendas,Total,1.81
+2022-05-01,2022M05,Viviendas,Variable,1.84
+2022-06-01,2022M06,Total fincas,Fijo,1.95
+2022-06-01,2022M06,Total fincas,Total,1.94
+2022-06-01,2022M06,Total fincas,Variable,1.91
+2022-06-01,2022M06,Viviendas,Fijo,1.84
+2022-06-01,2022M06,Viviendas,Total,1.82
+2022-06-01,2022M06,Viviendas,Variable,1.79
+2022-07-01,2022M07,Total fincas,Fijo,2.12
+2022-07-01,2022M07,Total fincas,Total,2.16
+2022-07-01,2022M07,Total fincas,Variable,2.21
+2022-07-01,2022M07,Viviendas,Fijo,1.93
+2022-07-01,2022M07,Viviendas,Total,1.92
+2022-07-01,2022M07,Viviendas,Variable,1.9
+2022-08-01,2022M08,Total fincas,Fijo,2.18
+2022-08-01,2022M08,Total fincas,Total,2.18
+2022-08-01,2022M08,Total fincas,Variable,2.18
+2022-08-01,2022M08,Viviendas,Fijo,1.99
+2022-08-01,2022M08,Viviendas,Total,1.95
+2022-08-01,2022M08,Viviendas,Variable,1.85
+2022-09-01,2022M09,Total fincas,Fijo,2.47
+2022-09-01,2022M09,Total fincas,Total,2.28
+2022-09-01,2022M09,Total fincas,Variable,1.95
+2022-09-01,2022M09,Viviendas,Fijo,2.09
+2022-09-01,2022M09,Viviendas,Total,2.0
+2022-09-01,2022M09,Viviendas,Variable,1.81
+2022-10-01,2022M10,Total fincas,Fijo,2.53
+2022-10-01,2022M10,Total fincas,Total,2.37
+2022-10-01,2022M10,Total fincas,Variable,2.11
+2022-10-01,2022M10,Viviendas,Fijo,2.26
+2022-10-01,2022M10,Viviendas,Total,2.14
+2022-10-01,2022M10,Viviendas,Variable,1.9
+2022-11-01,2022M11,Total fincas,Fijo,2.99
+2022-11-01,2022M11,Total fincas,Total,2.74
+2022-11-01,2022M11,Total fincas,Variable,2.43
+2022-11-01,2022M11,Viviendas,Fijo,2.82
+2022-11-01,2022M11,Viviendas,Total,2.56
+2022-11-01,2022M11,Viviendas,Variable,2.14
+2022-12-01,2022M12,Total fincas,Fijo,3.2
+2022-12-01,2022M12,Total fincas,Total,2.82
+2022-12-01,2022M12,Total fincas,Variable,2.27
+2022-12-01,2022M12,Viviendas,Fijo,2.92
+2022-12-01,2022M12,Viviendas,Total,2.66
+2022-12-01,2022M12,Viviendas,Variable,2.17
+2023-01-01,2023M01,Total fincas,Fijo,2.94
+2023-01-01,2023M01,Total fincas,Total,2.85
+2023-01-01,2023M01,Total fincas,Variable,2.73
+2023-01-01,2023M01,Viviendas,Fijo,2.79
+2023-01-01,2023M01,Viviendas,Total,2.64
+2023-01-01,2023M01,Viviendas,Variable,2.36
+2023-02-01,2023M02,Total fincas,Fijo,3.38
+2023-02-01,2023M02,Total fincas,Total,3.2
+2023-02-01,2023M02,Total fincas,Variable,2.95
+2023-02-01,2023M02,Viviendas,Fijo,2.95
+2023-02-01,2023M02,Viviendas,Total,2.86
+2023-02-01,2023M02,Viviendas,Variable,2.68
+2023-03-01,2023M03,Total fincas,Fijo,3.37
+2023-03-01,2023M03,Total fincas,Total,3.27
+2023-03-01,2023M03,Total fincas,Variable,3.13
+2023-03-01,2023M03,Viviendas,Fijo,3.14
+2023-03-01,2023M03,Viviendas,Total,2.98
+2023-03-01,2023M03,Viviendas,Variable,2.71
+2023-04-01,2023M04,Total fincas,Fijo,3.58
+2023-04-01,2023M04,Total fincas,Total,3.4
+2023-04-01,2023M04,Total fincas,Variable,3.18
+2023-04-01,2023M04,Viviendas,Fijo,3.28
+2023-04-01,2023M04,Viviendas,Total,3.08
+2023-04-01,2023M04,Viviendas,Variable,2.77
+2023-05-01,2023M05,Total fincas,Fijo,3.72
+2023-05-01,2023M05,Total fincas,Total,3.5
+2023-05-01,2023M05,Total fincas,Variable,3.24
+2023-05-01,2023M05,Viviendas,Fijo,3.4
+2023-05-01,2023M05,Viviendas,Total,3.15
+2023-05-01,2023M05,Viviendas,Variable,2.78
+2023-06-01,2023M06,Total fincas,Fijo,3.68
+2023-06-01,2023M06,Total fincas,Total,3.48
+2023-06-01,2023M06,Total fincas,Variable,3.25
+2023-06-01,2023M06,Viviendas,Fijo,3.43
+2023-06-01,2023M06,Viviendas,Total,3.17
+2023-06-01,2023M06,Viviendas,Variable,2.82
+2023-07-01,2023M07,Total fincas,Fijo,3.69
+2023-07-01,2023M07,Total fincas,Total,3.49
+2023-07-01,2023M07,Total fincas,Variable,3.31
+2023-07-01,2023M07,Viviendas,Fijo,3.48
+2023-07-01,2023M07,Viviendas,Total,3.23
+2023-07-01,2023M07,Viviendas,Variable,2.93
+2023-08-01,2023M08,Total fincas,Fijo,3.9
+2023-08-01,2023M08,Total fincas,Total,3.61
+2023-08-01,2023M08,Total fincas,Variable,3.37
+2023-08-01,2023M08,Viviendas,Fijo,3.53
+2023-08-01,2023M08,Viviendas,Total,3.24
+2023-08-01,2023M08,Viviendas,Variable,2.89
+2023-09-01,2023M09,Total fincas,Fijo,3.66
+2023-09-01,2023M09,Total fincas,Total,3.45
+2023-09-01,2023M09,Total fincas,Variable,3.27
+2023-09-01,2023M09,Viviendas,Fijo,3.41
+2023-09-01,2023M09,Viviendas,Total,3.27
+2023-09-01,2023M09,Viviendas,Variable,3.12
+2023-10-01,2023M10,Total fincas,Fijo,3.85
+2023-10-01,2023M10,Total fincas,Total,3.69
+2023-10-01,2023M10,Total fincas,Variable,3.53
+2023-10-01,2023M10,Viviendas,Fijo,3.57
+2023-10-01,2023M10,Viviendas,Total,3.31
+2023-10-01,2023M10,Viviendas,Variable,3.02
+2023-11-01,2023M11,Total fincas,Fijo,3.86
+2023-11-01,2023M11,Total fincas,Total,3.63
+2023-11-01,2023M11,Total fincas,Variable,3.42
+2023-11-01,2023M11,Viviendas,Fijo,3.51
+2023-11-01,2023M11,Viviendas,Total,3.26
+2023-11-01,2023M11,Viviendas,Variable,3.01
+2023-12-01,2023M12,Total fincas,Fijo,3.86
+2023-12-01,2023M12,Total fincas,Total,3.66
+2023-12-01,2023M12,Total fincas,Variable,3.47
+2023-12-01,2023M12,Viviendas,Fijo,3.54
+2023-12-01,2023M12,Viviendas,Total,3.33
+2023-12-01,2023M12,Viviendas,Variable,3.08
+2024-01-01,2024M01,Total fincas,Fijo,3.93
+2024-01-01,2024M01,Total fincas,Total,3.9
+2024-01-01,2024M01,Total fincas,Variable,3.87
+2024-01-01,2024M01,Viviendas,Fijo,3.63
+2024-01-01,2024M01,Viviendas,Total,3.44
+2024-01-01,2024M01,Viviendas,Variable,3.23
+2024-02-01,2024M02,Total fincas,Fijo,4.06
+2024-02-01,2024M02,Total fincas,Total,3.75
+2024-02-01,2024M02,Total fincas,Variable,3.45
+2024-02-01,2024M02,Viviendas,Fijo,3.58
+2024-02-01,2024M02,Viviendas,Total,3.34
+2024-02-01,2024M02,Viviendas,Variable,3.07
+2024-03-01,2024M03,Total fincas,Fijo,4.22
+2024-03-01,2024M03,Total fincas,Total,3.91
+2024-03-01,2024M03,Total fincas,Variable,3.59
+2024-03-01,2024M03,Viviendas,Fijo,3.67
+2024-03-01,2024M03,Viviendas,Total,3.42
+2024-03-01,2024M03,Viviendas,Variable,3.16
+2024-04-01,2024M04,Total fincas,Fijo,3.72
+2024-04-01,2024M04,Total fincas,Total,3.59
+2024-04-01,2024M04,Total fincas,Variable,3.48
+2024-04-01,2024M04,Viviendas,Fijo,3.5
+2024-04-01,2024M04,Viviendas,Total,3.36
+2024-04-01,2024M04,Viviendas,Variable,3.23
+2024-05-01,2024M05,Total fincas,Fijo,3.69
+2024-05-01,2024M05,Total fincas,Total,3.57
+2024-05-01,2024M05,Total fincas,Variable,3.46
+2024-05-01,2024M05,Viviendas,Fijo,3.42
+2024-05-01,2024M05,Viviendas,Total,3.25
+2024-05-01,2024M05,Viviendas,Variable,3.05
+2024-06-01,2024M06,Total fincas,Fijo,3.7
+2024-06-01,2024M06,Total fincas,Total,3.59
+2024-06-01,2024M06,Total fincas,Variable,3.48
+2024-06-01,2024M06,Viviendas,Fijo,3.42
+2024-06-01,2024M06,Viviendas,Total,3.25
+2024-06-01,2024M06,Viviendas,Variable,3.04
+2024-07-01,2024M07,Total fincas,Fijo,3.67
+2024-07-01,2024M07,Total fincas,Total,3.54
+2024-07-01,2024M07,Total fincas,Variable,3.41
+2024-07-01,2024M07,Viviendas,Fijo,3.32
+2024-07-01,2024M07,Viviendas,Total,3.17
+2024-07-01,2024M07,Viviendas,Variable,3.0
+2024-08-01,2024M08,Total fincas,Fijo,3.74
+2024-08-01,2024M08,Total fincas,Total,3.69
+2024-08-01,2024M08,Total fincas,Variable,3.64
+2024-08-01,2024M08,Viviendas,Fijo,3.47
+2024-08-01,2024M08,Viviendas,Total,3.28
+2024-08-01,2024M08,Viviendas,Variable,3.02
+2024-09-01,2024M09,Total fincas,Fijo,3.42
+2024-09-01,2024M09,Total fincas,Total,3.35
+2024-09-01,2024M09,Total fincas,Variable,3.27
+2024-09-01,2024M09,Viviendas,Fijo,3.29
+2024-09-01,2024M09,Viviendas,Total,3.13
+2024-09-01,2024M09,Viviendas,Variable,2.9
+2024-10-01,2024M10,Total fincas,Fijo,3.56
+2024-10-01,2024M10,Total fincas,Total,3.43
+2024-10-01,2024M10,Total fincas,Variable,3.28
+2024-10-01,2024M10,Viviendas,Fijo,3.32
+2024-10-01,2024M10,Viviendas,Total,3.12
+2024-10-01,2024M10,Viviendas,Variable,2.83
+2024-11-01,2024M11,Total fincas,Fijo,3.6
+2024-11-01,2024M11,Total fincas,Total,3.63
+2024-11-01,2024M11,Total fincas,Variable,3.68
+2024-11-01,2024M11,Viviendas,Fijo,3.31
+2024-11-01,2024M11,Viviendas,Total,3.26
+2024-11-01,2024M11,Viviendas,Variable,3.2
+2024-12-01,2024M12,Total fincas,Fijo,3.84
+2024-12-01,2024M12,Total fincas,Total,3.65
+2024-12-01,2024M12,Total fincas,Variable,3.39
+2024-12-01,2024M12,Viviendas,Fijo,3.31
+2024-12-01,2024M12,Viviendas,Total,3.25
+2024-12-01,2024M12,Viviendas,Variable,3.16
+2025-01-01,2025M01,Total fincas,Fijo,3.32
+2025-01-01,2025M01,Total fincas,Total,3.31
+2025-01-01,2025M01,Total fincas,Variable,3.29
+2025-01-01,2025M01,Viviendas,Fijo,3.17
+2025-01-01,2025M01,Viviendas,Total,3.08
+2025-01-01,2025M01,Viviendas,Variable,2.94
+2025-02-01,2025M02,Total fincas,Fijo,3.34
+2025-02-01,2025M02,Total fincas,Total,3.18
+2025-02-01,2025M02,Total fincas,Variable,2.98
+2025-02-01,2025M02,Viviendas,Fijo,3.1
+2025-02-01,2025M02,Viviendas,Total,2.96
+2025-02-01,2025M02,Viviendas,Variable,2.73
+2025-03-01,2025M03,Total fincas,Fijo,3.26
+2025-03-01,2025M03,Total fincas,Total,3.23
+2025-03-01,2025M03,Total fincas,Variable,3.2
+2025-03-01,2025M03,Viviendas,Fijo,3.05
+2025-03-01,2025M03,Viviendas,Total,2.97
+2025-03-01,2025M03,Viviendas,Variable,2.83
+2025-04-01,2025M04,Total fincas,Fijo,3.22
+2025-04-01,2025M04,Total fincas,Total,3.22
+2025-04-01,2025M04,Total fincas,Variable,3.22
+2025-04-01,2025M04,Viviendas,Fijo,3.03
+2025-04-01,2025M04,Viviendas,Total,2.98
+2025-04-01,2025M04,Viviendas,Variable,2.87
+2025-05-01,2025M05,Total fincas,Fijo,3.11
+2025-05-01,2025M05,Total fincas,Total,3.1
+2025-05-01,2025M05,Total fincas,Variable,3.08
+2025-05-01,2025M05,Viviendas,Fijo,2.97
+2025-05-01,2025M05,Viviendas,Total,2.91
+2025-05-01,2025M05,Viviendas,Variable,2.78
+2025-06-01,2025M06,Total fincas,Fijo,3.23
+2025-06-01,2025M06,Total fincas,Total,3.21
+2025-06-01,2025M06,Total fincas,Variable,3.17
+2025-06-01,2025M06,Viviendas,Fijo,2.97
+2025-06-01,2025M06,Viviendas,Total,2.97
+2025-06-01,2025M06,Viviendas,Variable,2.98
+2025-07-01,2025M07,Total fincas,Fijo,3.16
+2025-07-01,2025M07,Total fincas,Total,3.16
+2025-07-01,2025M07,Total fincas,Variable,3.17
+2025-07-01,2025M07,Viviendas,Fijo,2.94
+2025-07-01,2025M07,Viviendas,Total,2.94
+2025-07-01,2025M07,Viviendas,Variable,2.94
+2025-08-01,2025M08,Total fincas,Fijo,3.04
+2025-08-01,2025M08,Total fincas,Total,3.18
+2025-08-01,2025M08,Total fincas,Variable,3.31
+2025-08-01,2025M08,Viviendas,Fijo,2.85
+2025-08-01,2025M08,Viviendas,Total,2.89
+2025-08-01,2025M08,Viviendas,Variable,2.95
+2025-09-01,2025M09,Total fincas,Fijo,3.01
+2025-09-01,2025M09,Total fincas,Total,3.16
+2025-09-01,2025M09,Total fincas,Variable,3.3
+2025-09-01,2025M09,Viviendas,Fijo,2.83
+2025-09-01,2025M09,Viviendas,Total,2.85
+2025-09-01,2025M09,Viviendas,Variable,2.89
+2025-10-01,2025M10,Total fincas,Fijo,3.1
+2025-10-01,2025M10,Total fincas,Total,3.17
+2025-10-01,2025M10,Total fincas,Variable,3.24
+2025-10-01,2025M10,Viviendas,Fijo,2.82
+2025-10-01,2025M10,Viviendas,Total,2.81
+2025-10-01,2025M10,Viviendas,Variable,2.79
+2025-11-01,2025M11,Total fincas,Fijo,3.18
+2025-11-01,2025M11,Total fincas,Total,3.16
+2025-11-01,2025M11,Total fincas,Variable,3.13
+2025-11-01,2025M11,Viviendas,Fijo,2.94
+2025-11-01,2025M11,Viviendas,Total,2.97
+2025-11-01,2025M11,Viviendas,Variable,3.01
+2025-12-01,2025M12,Total fincas,Fijo,3.07
+2025-12-01,2025M12,Total fincas,Total,3.09
+2025-12-01,2025M12,Total fincas,Variable,3.11
+2025-12-01,2025M12,Viviendas,Fijo,2.91
+2025-12-01,2025M12,Viviendas,Total,2.87
+2025-12-01,2025M12,Viviendas,Variable,2.82
+2026-01-01,2026M01,Total fincas,Fijo,3.21
+2026-01-01,2026M01,Total fincas,Total,3.22
+2026-01-01,2026M01,Total fincas,Variable,3.24
+2026-01-01,2026M01,Viviendas,Fijo,2.83
+2026-01-01,2026M01,Viviendas,Total,2.86
+2026-01-01,2026M01,Viviendas,Variable,2.92
+2026-02-01,2026M02,Total fincas,Fijo,2.99
+2026-02-01,2026M02,Total fincas,Total,3.08
+2026-02-01,2026M02,Total fincas,Variable,3.18
+2026-02-01,2026M02,Viviendas,Fijo,2.78
+2026-02-01,2026M02,Viviendas,Total,2.88
+2026-02-01,2026M02,Viviendas,Variable,3.03
+2026-03-01,2026M03,Total fincas,Fijo,3.1
+2026-03-01,2026M03,Total fincas,Total,3.08
+2026-03-01,2026M03,Total fincas,Variable,3.06
+2026-03-01,2026M03,Viviendas,Fijo,2.83
+2026-03-01,2026M03,Viviendas,Total,2.84
+2026-03-01,2026M03,Viviendas,Variable,2.86
+2026-04-01,2026M04,Total fincas,Fijo,3.04
+2026-04-01,2026M04,Total fincas,Total,3.0
+2026-04-01,2026M04,Total fincas,Variable,2.96
+2026-04-01,2026M04,Viviendas,Fijo,2.86
+2026-04-01,2026M04,Viviendas,Total,2.9
+2026-04-01,2026M04,Viviendas,Variable,2.97
+2026-05-01,2026M05,Total fincas,Fijo,3.08
+2026-05-01,2026M05,Total fincas,Total,3.07
+2026-05-01,2026M05,Total fincas,Variable,3.07
+2026-05-01,2026M05,Viviendas,Fijo,2.96
+2026-05-01,2026M05,Viviendas,Total,2.98
+2026-05-01,2026M05,Viviendas,Variable,3.0
+2026-06-01,2026M06,Total fincas,Fijo,3.22
+2026-06-01,2026M06,Total fincas,Total,3.26
+2026-06-01,2026M06,Total fincas,Variable,3.29
+2026-06-01,2026M06,Viviendas,Fijo,2.89
+2026-06-01,2026M06,Viviendas,Total,2.96
+2026-06-01,2026M06,Viviendas,Variable,3.07

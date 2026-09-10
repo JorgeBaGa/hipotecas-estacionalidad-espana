@@ -1,0 +1,9 @@
+{
+  "ine_source": "https://www.ine.es/jaxiT3/files/t/csv_bdsc/24457.csv",
+  "bde_source": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/cal_umv_mfi001.csv",
+  "bde_series": "D_1NBAF472",
+  "ine_rows": "1260",
+  "euribor_rows": "332",
+  "ine_latest": "2026-06-01",
+  "euribor_latest": "2026-08-01"
+}

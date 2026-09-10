@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-09-10T13:34:15.803270",
+  "mortgage_latest": "2026-06-01",
+  "euribor_latest": "2026-08-01",
+  "publication_lead_months": 2,
+  "backtest_first_origin": "2021-01-01",
+  "backtest_last_origin": "2025-12-01",
+  "backtest_origins": 60,
+  "horizons": [
+    1,
+    3,
+    6
+  ],
+  "selected_models": [
+    {
+      "horizon_months": 1,
+      "model": "naive"
+    },
+    {
+      "horizon_months": 3,
+      "model": "ets"
+    },
+    {
+      "horizon_months": 6,
+      "model": "ets"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "errors": [],
+  "ine": {
+    "rows": 1260,
+    "unique_months": 210,
+    "start": "2009-01-01",
+    "end": "2026-06-01",
+    "rows_per_month_min": 6,
+    "rows_per_month_max": 6,
+    "naturaleza_finca": [
+      "Total fincas",
+      "Viviendas"
+    ],
+    "tipo_interes": [
+      "Fijo",
+      "Total",
+      "Variable"
+    ]
+  },
+  "euribor": {
+    "rows": 332,
+    "unique_months": 332,
+    "start": "1999-01-01",
+    "end": "2026-08-01",
+    "min_value": -0.51,
+    "max_value": 5.39
+  }
+}
