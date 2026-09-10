@@ -14,6 +14,21 @@ El cuaderno principal, [`notebooks/hipotecas_analysis.ipynb`](notebooks/hipoteca
 es el documento a abrir primero: contiene toda la narrativa, los gráficos y
 las conclusiones.
 
+Una de las visualizaciones más útiles del análisis es la desviación mensual
+del tipo hipotecario respecto a la media de cada año.
+
+<p align="center">
+  <img src="outputs/figures/14_heatmap_desviacion_mensual.png" alt="Desviación mensual del tipo hipotecario respecto a la media de cada año" width="720">
+</p>
+
+Cada celda representa, para un año y un mes concretos, cuánto se desvía el
+tipo hipotecario medio de ese mes respecto a la media de ese mismo año, en
+puntos porcentuales. Los tonos azules indican meses por debajo de la media
+anual; los rojos, por encima. Leída por columnas, permite ver si un mes
+tiende a repetirse por debajo o por encima de la media a lo largo de los 17
+años analizados (2009-2025), o si el patrón depende de unos pocos años
+concretos.
+
 ## Vista previa
 
 <p align="center">
