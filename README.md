@@ -14,6 +14,13 @@ El cuaderno principal, [`notebooks/hipotecas_analysis.ipynb`](notebooks/hipoteca
 es el documento a abrir primero: contiene toda la narrativa, los gráficos y
 las conclusiones.
 
+## Vista previa
+
+<p align="center">
+  <img src="outputs/figures/03_historico_tipos_euribor.png" alt="Evolución de los tipos hipotecarios y del Euríbor" width="720"><br>
+  <img src="outputs/figures/11_diferencial_tipo_euribor.png" alt="Diferencial entre el tipo hipotecario medio y el Euríbor" width="720">
+</p>
+
 ## Qué analiza
 
 - Evolución histórica de los tipos hipotecarios y del Euríbor a 12 meses.
